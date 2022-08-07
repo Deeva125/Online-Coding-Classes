@@ -80,6 +80,8 @@ button:hover{
 .pros{
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: goldenrod;
     margin-top: 30px;
 }
